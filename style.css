@@ -9,6 +9,7 @@ html {
 }
 
 body {
+  background color: lightyellow;
   margin: 0;                             /* clear any pre-set margin */
   font-family: 'Open Sans', sans-serif;  /* use the webfont we loaded earlier */
 }
@@ -30,7 +31,7 @@ a {
 }
 
 #navigation a {
-  background-color: yellow;              /* give the links inside the #navigation a yellow background */
+  /*background-color: yellow;              /* give the links inside the #navigation a yellow background */
   text-decoration: none;                 /* don't make them underlined by default */
 }
 
